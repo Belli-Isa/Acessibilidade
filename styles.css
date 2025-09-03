@@ -30,7 +30,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/Logo Escrita Principal.png');
+    background-image: url('img/Fundo da Logo Principal.jpg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -44,9 +44,9 @@ section {
 /* posicionamento para a imagem à direita */
 .img-inicio {
     position: absolute;
-    right: 0;
-    top: 18rem;
-    width: 45rem;
+    right: 5;
+    top: 20rem;
+    width: 40rem;
     height: auto;
 }
 
@@ -199,5 +199,6 @@ h2 {
     background: none;
 
 }
+
 
 
